@@ -46,12 +46,6 @@ Areas of Interest
 - Web and Game Development
 - Digital Marketing
 - Technology and Innovation
-- Creative Project Development
-
-Connect With Me
-
-Platform| Profile
-GitHub| "My GitHub Profile" (https://github.com/)
-LinkedIn| "My LinkedIn Profile" (https://www.linkedin.com/)
+- Creative Project Developments 
 
 Thank you for visiting my profile. I am always eager to learn, collaborate, and build something meaningful through technology.
