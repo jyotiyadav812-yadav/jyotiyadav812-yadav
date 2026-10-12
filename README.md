@@ -1,45 +1,57 @@
-Hi, I'm Jyoti Yadav!
+Jyoti Yadav
 
-💻 Aspiring Developer | AI Enthusiast | Digital Marketing Student
+Digital Marketing with AI | Aspiring Developer | Technology Enthusiast
 
-Welcome to my GitHub! 
-
-I'm a career-oriented student passionate about technology, creativity, and continuous learning. I'm currently pursuing Digital Marketing with AI and exploring how artificial intelligence and web development can turn innovative ideas into practical solutions.
+Welcome to my GitHub profile. I am a motivated and career-oriented learner interested in artificial intelligence, digital marketing, web development, and innovative technology. I enjoy exploring AI-powered tools and developing practical projects to enhance my technical knowledge and problem-solving skills.
 
 About Me
-10th.  79.8%
 
-12th 90.2%
+- Currently pursuing a course in Digital Marketing with AI.
+- Interested in AI-powered applications, web development, and game development.
+- Focused on continuous learning and professional growth.
+- Passionate about transforming creative ideas into practical digital solutions.
 
+Educational Qualifications
 
- Graduate in Bachelor of Arts (BA)
- Learning Digital Marketing with AI.  
- Exploring web development and AI-powered tools
- Interested in creating interactive games and innovative projects
- Focused on improving my technical skills and building real-world projects
- Believe in continuous learning and personal growth
+Qualification| Board / University| Percentage
+10th| HBSE| 79.8%
+12th (Arts)| HBSE| 90.2%
+Bachelor of Arts (BA)| Kurukshetra University (KUK)| 60%
+Digital Marketing with AI| Currently Pursuing| In Progress
 
- Areas of Interest
+Technical Skills
 
-- Artificial Intelligence (AI)
-- Web Development
-- AI-Powered Applications
-- Game Development
+Skill| Description
+Artificial Intelligence| Exploring AI tools and AI-assisted development
+Digital Marketing| Learning digital marketing strategies and online promotion
+Git and GitHub| Version control and project management fundamentals
+HTML, CSS, and JavaScript| Exploring web development fundamentals
+AI-Assisted Development| Building projects with AI-powered development tools
+Problem Solving| Analytical thinking and creative solutions
+
+Projects
+
+Project Name| Description| Technologies / Tools
+3D Road Runner Game| An interactive 3D running game created as a learning project.| Google AI Studio, AI-assisted development
+AI Student Career Agent| A career guidance agent concept that recommends career paths based on qualifications, interests, skills, and salary expectations.| Artificial Intelligence, AI Agent Tools
+CSC Centre Website| A website concept to showcase Common Service Centre services, location, and office information.| Web Development, AI-Assisted Coding
+
+Career Objective
+
+My goal is to build a successful career in the technology and digital industry by gaining practical experience, continuously upgrading my skills, and creating useful digital solutions. I believe that consistency, creativity, and a willingness to learn are the keys to professional growth.
+
+Areas of Interest
+
+- Artificial Intelligence and AI Agents
+- Web and Game Development
 - Digital Marketing
-- Creative Problem-Solving
+- Technology and Innovation
+- Creative Project Development
 
- My Goals
+Connect With Me
 
-My goal is to transform my ideas into meaningful digital projects, strengthen my technical knowledge, and build a successful career in technology.
+Platform| Profile
+GitHub| "My GitHub Profile" (https://github.com/)
+LinkedIn| "My LinkedIn Profile" (https://www.linkedin.com/)
 
-My Learning Journey
-
-I'm constantly learning, experimenting with new tools, and building projects that help me grow as a developer. Every project is an opportunity to learn something new and improve my skills.
-
-Let's Connect
-
-I'm always open to learning, exploring new ideas, and collaborating on exciting projects.
-
-Learning today. Building tomorrow. Creating my own future.
-
- This is just the beginning!
+Thank you for visiting my profile. I am always eager to learn, collaborate, and build something meaningful through technology.
