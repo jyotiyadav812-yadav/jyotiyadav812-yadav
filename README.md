@@ -73,11 +73,10 @@ My goal is to build a **successful career in the technology and digital industry
 ---
 
 ## Connect With Me
-
-| Platform | Link |
-|---|---|
-| **GitHub** | [MY GITHUB LINK] |
-| **Email** | [MY EMAIL] |
+email    jyotiiyadav@gmail.com
+no.  9350606197
+instagram 
+@jyotiyadav812 
 
 ---
 
